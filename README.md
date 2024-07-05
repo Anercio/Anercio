@@ -1,14 +1,14 @@
--👋 Olá,sou Anércio.
--⏳ Meu perfil ainda esta carregando
--💜 Tenho paixão por Tecnologia
--👀 Interesse em análise de dados, com um enorme potencial para transforma os dados.
--📖 Estudante Pós Graduação em Data Analytics
--👩‍💻 Meu objetivo profissional é consolidar minha carreira como Analista de Dados, contribuindo com meu conhecimento em projetos desafiadores.
--🏗️ Estou construindo um portfólio diversificado que abrange visualização de dados, aprendizado de máquina e previsão de tendências.
--📫 Você pode me contatar pelo e-mail.: anerciodecarvalho@gmail.com
--🔗 LinkedIn.: em https://www.linkedin.com/in/anercio-carvalho
--🚀 Vamos explorar juntos o mundo dos dados e transformá-los em insights valiosos.
--😊 Obrigado por visitar meu perfil!
+👋 Olá,sou Anércio.<br>
+⏳ Meu perfil ainda esta carregando<br>
+💜 Tenho paixão por Tecnologia<br>
+👀 Interesse em análise de dados, com um enorme potencial para transforma os dados.<br>
+📖 Estudante Pós Graduação em Data Analytics<br>
+👩‍💻 Meu objetivo profissional é consolidar minha carreira como Analista de Dados, contribuindo com meu conhecimento em projetos desafiadores.<br>
+🏗️ Estou construindo um portfólio diversificado que abrange visualização de dados, aprendizado de máquina e previsão de tendências.<br>
+📫 Você pode me contatar pelo e-mail.: anerciodecarvalho@gmail.com<br>
+🔗 LinkedIn.: em https://www.linkedin.com/in/anercio-carvalho<br>
+🚀 Vamos explorar juntos o mundo dos dados e transformá-los em insights valiosos.<br>
+😊 Obrigado por visitar meu perfil!<br>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
